@@ -1,0 +1,29 @@
+id: P254DAAC1
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG4449
+  instance_id: http://purl.bdrc.io/resource/IE1KG4449
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བཅོམ་ལྡན་འདས་དཔལ་དགྱེས་པ་རྡོ་རྗེའི་ཆོ་ག་ནག་པོ་འགྲོ་ཤེས་སུ་བཀོད་པ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P264
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    1ee0b11ed07e48889ac6a4b8b358c80d:
+      title: པོད ༡་བཅོམ་ལྡན་འདས་དཔལ་དགྱེས་པ་རྡོ་རྗེའི་ཆོ་ག་ནག་པོ་འགྲོ་ཤེས་སུ་བཀོད་པ
+      volume_number: 1
+      base_file: UT1KG4449_I1KG4537_0000.txt
+      reference: http://purl.bdrc.io/resource/VL59A7D0C3DFE65944
+      image_group: I1KG4537
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG4449
+  - http://purl.bdrc.io/resource/W1KG4449
+  ocr_software: Namsel
+created_at: '2021-12-22T10:41:38.653494'
+last_modified_at: '2021-12-22T10:41:38.653500'
